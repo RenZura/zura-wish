@@ -4,6 +4,8 @@ Wish
   * RRQ
   * EVOS
   * TLID
+  * ALTER EGO
+  * ONIC
 - Ikut Akademi
   * SAMBANG DOLOR
   * SDES 
